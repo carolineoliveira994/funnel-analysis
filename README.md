@@ -6,13 +6,15 @@
 
 Este projeto simula um cenário de análise de produto em uma plataforma digital, com foco em comportamento do usuário e otimização do funil de conversão.
 
----
+
+
+
 
 ## 🎯 Objetivo
 
 Analisar o comportamento dos usuários e identificar gargalos no funil de conversão, com foco em melhorar a progressão desde o interesse inicial até ações de maior intenção.
 
----
+
 
 ## 📊 Dados
 
@@ -22,7 +24,7 @@ Eventos simulados de interação do usuário:
 * `cart`: intenção de compra
 * `purchase`: conversão final
 
----
+
 
 ## 🔍 Principais Descobertas
 
@@ -30,7 +32,8 @@ Eventos simulados de interação do usuário:
 * **96% de abandono** na primeira etapa do funil
 * A maioria dos usuários interage com poucos produtos (**mediana = 2**)
 
----
+
+
 
 ## 🧠 Insight
 
@@ -38,7 +41,7 @@ O principal problema não está na aquisição de usuários, mas na **conversão
 
 Os usuários demonstram engajamento inicial, mas não avançam para etapas de maior intenção, indicando fricção na tomada de decisão.
 
----
+
 
 ## 💡 Recomendações
 
@@ -47,13 +50,13 @@ Os usuários demonstram engajamento inicial, mas não avançam para etapas de ma
 * Reduzir fricção na ação de adicionar ao carrinho
 * Personalizar recomendações com base no comportamento
 
----
+
 
 ## 📈 Dashboard
 
 ![Dashboard](images/dashboard.png)
 
----
+
 
 ## Arquitetura (Simulação)
 
@@ -65,7 +68,8 @@ Este projeto simula uma arquitetura moderna de análise de dados:
 
 A estrutura reproduz, em escala reduzida, análises realizadas em produtos digitais e fintechs.
 
----
+
+
 
 ## Sobre o Projeto
 
@@ -76,7 +80,8 @@ Este projeto demonstra habilidades em:
 * Comportamento do usuário
 * Tomada de decisão orientada por dados
 
----
+
+
 
 ## Autora
 
